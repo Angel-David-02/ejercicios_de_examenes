@@ -1,0 +1,14 @@
+nombre: yk8ofa9ymkbaa465qp1x
+contraseña: pscale_pw_faXcpacy7GtZgbJnlKczsWzWUSpFj8eKh0E6TAARjAa
+--------------------
+Clase.para nombre("com.mysql.cj.jdbc.Driver");
+Conexión conn = DriverManager.getConnection(
+  "jdbc: mysql://aws.connect.psdb.cloud/idatdb?sslMode = VERIFY_IDENTITY",
+  "yk8ofa9ymkbaa465qp1x",
+  "pscale_pw_faXcpacy7GtZgbJnlKczsWzWUSpFj8eKh0E6TAARjAa");
+**********************************************************************************
+**********************************************************************************
+database: idatdb
+username: yk8ofa9ymkbaa465qp1x
+host: aws.connect.psdb.cloud
+password: pscale_pw_faXcpacy7GtZgbJnlKczsWzWUSpFj8eKh0E6TAARjAa
